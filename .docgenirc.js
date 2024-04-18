@@ -1,11 +1,11 @@
 module.exports = {
     heads: [],
     mode: 'full',
-    title: 'ngnice',
+    title: 'Angular复兴',
     logoUrl: 'assets/images/new-logo.png',
     siteProjectName: 'site',
     // theme: 'angular',
-    repoUrl: 'https://github.com/ngnice/ngnice.com',
+    repoUrl: 'https://github.com/guoapeng/ngrevive.com',
     footer: 'Open-source MIT Licensed | Copyright © 2020-present Powered by ngnice',
     navs: [
         null,

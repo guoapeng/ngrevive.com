@@ -7,7 +7,7 @@
     "build": "ng build",
     "build:prod": "docgeni build",
     "pub": "yarn build:prod && cp ./package.json ./dist/site && yarn pub:git",
-    "pub:git": "wpm git-publish --source ./dist/site --name site-builds --organization ngnice",
+    "pub:git": "wpm git-publish --source ./dist/site --name site-builds --organization guoapeng",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",

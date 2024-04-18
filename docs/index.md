@@ -1,7 +1,7 @@
 ---
 title: 首页
 hero:
-  title: NG-NICE
+  title: Angular复兴
   description: 努力打造成为 Angular 开发者提供优质内容的平台
   backgroundColor: "#f5f6f8"
   actions:
