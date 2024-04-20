@@ -6,7 +6,7 @@ hero:
   backgroundColor: "#f5f6f8"
   actions:
     - text: 认识 Angular
-      link: /docs/intro
+      link: /docs
       btnShape: round,
       btnType: outline-primary-light
 features:
@@ -22,7 +22,3 @@ features:
 ---
 
 <alert type="info">努力打造成为 Angular 开发者提供优质内容的平台。</alert>
-
-## 一起加入
-
-如果你有好的想法和建议同时也想为 Angular 社区贡献力量的可以加入我们（加微信`why520crazy`后拉你进群），让我们一起为 Angular 社区做点贡献吧！

@@ -6,7 +6,7 @@ module.exports = {
     siteProjectName: 'site',
     // theme: 'angular',
     repoUrl: 'https://github.com/guoapeng/ngrevive.com',
-    footer: 'Open-source MIT Licensed | Copyright © 2020-present Powered by ngnice',
+    footer: 'Open-source MIT Licensed | Copyright © 2024-present Powered by ngrevive.com',
     navs: [
         null,
         {
@@ -22,6 +22,11 @@ module.exports = {
         {
             title: 'Angular 中文版',
             path: 'https://angular.cn',
+            isExternal: true
+        },
+        {
+            title: '博主主站',
+            path: 'https://www.pengtech.net',
             isExternal: true
         }
     ],
